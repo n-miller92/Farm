@@ -23,6 +23,9 @@ header,address,dl{
     color: var(--white);
     text-align: center;
 }
+nav h2{
+    visibility: hidden;
+}
 a{
     text-decoration: none;
     background: var(--orange);
